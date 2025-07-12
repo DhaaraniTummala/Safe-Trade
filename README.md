@@ -72,3 +72,4 @@ This web application uses an LSTM model (TensorFlow/Keras) to predict future sto
 - Retail: WMT, TGT, COST
 - Healthcare: JNJ, PFE, MRNA
 - Entertainment: DIS, NFLX
+
